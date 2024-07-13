@@ -1,5 +1,5 @@
 package com.mycompany.accessmodifier;
-
+// Learn GitHub
 public class BankAccount {
     // Private variable to store the balance
     private double balance;
